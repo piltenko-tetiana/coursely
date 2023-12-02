@@ -1,0 +1,24 @@
+* {
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: px14;
+  color: var(--main-black);
+  box-sizing: border-box;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+:root {
+  --main-white: #ffffff;
+  --main-black: #0f0f0f;
+  --main-pink: #e48d8b;
+  --main-gray: #757575;
+  --main-blue: #017cff;
+  --secondary-pink: #d87775;
+  --secondary-gray: #464646;
+  --secondary-white: #ededed;
+  --secondary-blue: #194677;
+  --primary-gray: #b1b1b1;
+}

@@ -1,0 +1,37 @@
+.accordion__items {
+  padding: 0;
+  margin: 0 auto;
+  max-width: 37rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 0.75rem;
+}
+
+.accordion__item {
+  display: flex;
+  max-height: 4.125rem;
+  color: var(--secondary-white);
+  justify-content: space-between;
+  align-items: center;
+  padding: 0;
+  border: 0;
+}
+
+.accordion__text {
+  color: var(--secondary-gray);
+  font-size: 1.1875rem;
+  line-height: 1.875rem;
+  margin: 1.5rem 1.12rem;
+  flex-wrap: nowrap;
+}
+.accordion__title {
+  text-align: center;
+}
+
+.accordion__img {
+  width: 1rem;
+  height: 0.625rem;
+  flex-shrink: 0;
+  margin: 1.75rem 1.5rem;
+}

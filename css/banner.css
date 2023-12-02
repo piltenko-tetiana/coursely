@@ -1,0 +1,26 @@
+.banner {
+  color: var(--secondary-white);
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  text-align: center;
+}
+.banner__text {
+  line-height: 1.225rem;
+  padding: 0.8rem;
+}
+.banner__link {
+  color: var(--secondary-pink);
+  line-height: 1.137rem;
+  text-decoration: none;
+}
+.pink-button {
+  background: var(--main-pink);
+  color: var(--main-white);
+  font-size: 0.9rem;
+  font-weight: 700;
+  line-height: 1.5rem;
+  text-transform: capitalize;
+  text-decoration: none;
+  padding: 0.3rem 1.2rem;
+}

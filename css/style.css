@@ -1,0 +1,30 @@
+/* ====== Base styles ====== */
+@import url(./base.css);
+/* ====== Components ====== */
+@import url(./components.css);
+/* ====== Banner ====== */
+@import url(./banner.css);
+/* ====== Header ====== */
+@import url(./header.css);
+/* ====== Title Section ====== */
+@import url(./sections/title.css);
+/* ====== Action Section ====== */
+@import url(./sections/action.css);
+/* ====== Service Section ====== */
+@import url(./sections/service.css);
+/* ====== Included Section ====== */
+@import url(./sections/included.css);
+/* ====== Accordion Section ====== */
+@import url(./sections/accordion.css);
+/* ====== Result Section ====== */
+@import url(./sections/result.css);
+/* ====== Quote Section ====== */
+@import url(./sections/quote.css);
+/* ====== Question Section ====== */
+@import url(./sections/question.css);
+/* ====== Orders Section ====== */
+@import url(./sections/orders.css);
+/* ====== Reviews Section ====== */
+@import url(./sections/reviews.css);
+/* ====== Footer ====== */
+@import url(./footer.css);

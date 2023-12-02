@@ -1,0 +1,15 @@
+.action-skils__list {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: 0 auto;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.action-skils__paragraph {
+  margin: 0;
+  max-width: 20.0625rem;
+  font-size: 1.125rem;
+  line-height: 1.6875rem;
+}

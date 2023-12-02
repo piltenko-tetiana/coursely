@@ -1,0 +1,19 @@
+.header__container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.5rem;
+}
+.header__text {
+  color: var(--main-gray);
+  text-align: center;
+  font-size: 0.9rem;
+  line-height: 1.4rem;
+  letter-spacing: 0.0375rem;
+}
+@media (max-width: 520px) {
+  .header__container {
+    justify-content: center;
+    flex-direction: column;
+  }
+}
